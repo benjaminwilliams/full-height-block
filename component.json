@@ -1,0 +1,11 @@
+{
+  "name": "full-height-block",
+  "main": "index.scss",
+  "version": "0.0.1",
+  "dependencies": {},
+  "styles": [
+    "index.scss"
+  ],
+  "files": [],
+  "repo": "https://raw.github.com/benjaminwilliams/full-height-block"
+}

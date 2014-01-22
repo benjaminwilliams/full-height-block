@@ -1,0 +1,20 @@
+ .cssanimations body.body-full-height{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+ .cssanimations .full-height-block {
+  position: absolute;
+  width: 100%;
+  height: 85%;
+}
+
+ .no-cssanimations .full-height-block {
+  width: 100%;
+  min-height: 900px;
+ }
+
+
+
+
